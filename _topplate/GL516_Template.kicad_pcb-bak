@@ -1236,7 +1236,7 @@
     (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
   )
 
-  (gr_circle (center 176 72.5) (end 200 72.5) (layer Edge.Cuts) (width 0.15) (tstamp 60F68BF2))
+  (gr_circle (center 176.7475 72.5) (end 200.7475 72.5) (layer Edge.Cuts) (width 0.15) (tstamp 60F68BF2))
   (gr_line (start 10.075 122.75) (end 8.575 121.25) (layer F.Fab) (width 0.15) (tstamp 60883451))
   (gr_line (start 334.325 12.05) (end 332.825 10.55) (layer F.Fab) (width 0.15) (tstamp 60883444))
   (gr_line (start 8.575 12.05) (end 10.075 10.55) (layer F.Fab) (width 0.15) (tstamp 60883437))
