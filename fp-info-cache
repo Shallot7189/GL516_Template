@@ -1,4 +1,4 @@
-16947009900875018
+17016912320771018
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75319,6 +75319,153 @@ varistor SIOV
 0
 2
 2
+kbd_Hole
+Magnet_Hook_Female
+
+
+0
+0
+0
+kbd_Hole
+Magnet_Hook_Male
+
+
+0
+0
+0
+kbd_Hole
+Mouse_Bite_Hole
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd_Hole
+Reset_SW_Hole
+Resitance 3 pas
+R
+0
+0
+0
+kbd_Hole
+m2_Screw_Hole
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd_Hole
+m2_Screw_Hole_EdgeCuts
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd_Hole
+m2_Screw_Hole_Fab
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd_Hole
+m2_Spacer_Hole
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd_Hole
+m2_Spacer_Hole_Fit
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd_Hole
+m2_Spacer_Hole_Fit_EdgeCuts
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd_Hole
+m2_Spacer_Hole_hex
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd_Hole
+m3_Screw_Hole_EdgeCuts
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd_Hole
+m3_Spacer_Hole
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd_Parts
+Battery_XH2.5_GL
+
+
+0
+3
+2
+kbd_Parts
+Battery_XH2.5_GL_rev
+
+
+0
+3
+2
+kbd_Parts
+Diode_SMD
+Resitance 3 pas
+R
+0
+2
+2
+kbd_Parts
+Diode_SMD_EdgeCuts
+Resitance 3 pas
+R
+0
+0
+0
+kbd_Parts
+Diode_SMD_Silk
+Resitance 3 pas
+R
+0
+0
+0
+kbd_Parts
+Diode_TH
+Resitance 3 pas
+R
+0
+2
+2
+kbd_Parts
+Diode_TH_SMD
+Resitance 3 pas
+R
+0
+4
+2
+kbd_Parts
+Diode_TH_SMD_EdgeCuts
+Resitance 3 pas
+R
+0
+0
+0
 kbd_Parts
 Micon_BMP_7sKB
 
@@ -75354,6 +75501,160 @@ ResetSW
 0
 2
 2
+kbd_SW
+CherryMX_Choc_Hotswap_1u
+
+
+0
+4
+2
+kbd_SW
+CherryMX_Choc_Hotswap_1u_Small1
+
+
+0
+4
+2
+kbd_SW
+CherryMX_Hotswap_1.0u
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_1.0u_Small1
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_1.0u_Small2
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_1.0u_Small3
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_1.0u_Small4
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_1.0u_Small5
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_1.5u
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_1.25u
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_1.75u
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_2.25u
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_2u
+
+
+0
+2
+2
+kbd_SW
+CherryMX_Hotswap_2u_Rev
+
+
+0
+2
+2
+kbd_SW
+CherryMX_stab_2u
+
+
+0
+0
+0
+kbd_SW
+Choc_Hotswap_1.0u
+
+
+0
+2
+2
+kbd_SW
+Choc_Hotswap_1.0u_Small1
+
+
+0
+2
+2
+kbd_SW
+Choc_Hotswap_2.0u_NonStab
+
+
+0
+2
+2
+kbd_SW
+Choc_Hotswap_2.0u_Stab
+
+
+0
+2
+2
+kbd_SW
+Choc_v1_v2
+
+
+0
+3
+2
+kbd_SW
+Choc_v2
+
+
+0
+3
+2
+kbd_SW
+Choc_v2_Stab
+
+
+0
+0
+0
 kbd_SW_Hole
 SW_Hole_1.5
 

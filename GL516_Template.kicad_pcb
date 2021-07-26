@@ -2,10 +2,10 @@
 
   (general
     (thickness 1.6)
-    (drawings 48)
+    (drawings 44)
     (tracks 0)
     (zones 0)
-    (modules 63)
+    (modules 61)
     (nets 1)
   )
 
@@ -105,7 +105,7 @@
 
   (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60C7589E) (tstamp 60E46115)
     (at 164.8725 105.84)
-    (fp_text reference SW24 (at 7 8.1) (layer F.SilkS) hide
+    (fp_text reference SW23 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value L_Click (at -7.4 -8.1) (layer F.Fab) hide
@@ -123,7 +123,7 @@
 
   (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60C7589E) (tstamp 60E460A2)
     (at 188.7475 105.84)
-    (fp_text reference SW44 (at 7 8.1) (layer F.SilkS) hide
+    (fp_text reference SW42 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value R_Click (at -7.4 -8.1) (layer F.Fab) hide
@@ -141,7 +141,7 @@
 
   (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60C7589E) (tstamp 60E45DBE)
     (at 264.887904 86.527645 8)
-    (fp_text reference SW47 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW45 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value BackSpace (at -7.4 -8.1 8) (layer F.Fab) hide
@@ -159,10 +159,10 @@
 
   (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60C7589E) (tstamp 60E45DBE)
     (at 241.245254 89.850403 8)
-    (fp_text reference SW46 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW44 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Fn2 (at -7.4 -8.1 8) (layer F.Fab) hide
+    (fp_text value TAB/Fn2 (at -7.4 -8.1 8) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 11.90625 9.525) (end 11.90625 -9.525) (layer F.Fab) (width 0.15))
@@ -177,7 +177,7 @@
 
   (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60C7589E) (tstamp 60E45B8C)
     (at 217.602604 93.17316 8)
-    (fp_text reference SW45 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW43 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Enter (at -7.4 -8.1 8) (layer F.Fab) hide
@@ -195,7 +195,7 @@
 
   (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60C7589E) (tstamp 60E45B8C)
     (at 87.419642 87.849789 352)
-    (fp_text reference SW21 (at 7 8.1 172) (layer F.SilkS) hide
+    (fp_text reference SW20 (at 7 8.1 172) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Alt (at -7.4 -8.1 172) (layer F.Fab) hide
@@ -213,7 +213,7 @@
 
   (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60C7589E) (tstamp 60E45AAF)
     (at 111.062292 91.172547 352)
-    (fp_text reference SW22 (at 7 8.1 172) (layer F.SilkS) hide
+    (fp_text reference SW21 (at 7 8.1 172) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Fn1 (at -7.4 -8.1 172) (layer F.Fab) hide
@@ -231,7 +231,7 @@
 
   (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60C7589E) (tstamp 60E4589B)
     (at 134.704943 94.495305 352)
-    (fp_text reference SW23 (at 7 8.1 172) (layer F.SilkS) hide
+    (fp_text reference SW22 (at 7 8.1 172) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Space (at -7.4 -8.1 172) (layer F.Fab) hide
@@ -249,7 +249,7 @@
 
   (module kbd_SW_Hole:SW_Hole_1.75 (layer F.Cu) (tedit 60C758C9) (tstamp 60E457FE)
     (at 35.7375 66.775)
-    (fp_text reference SW15 (at 7 8.1) (layer F.SilkS) hide
+    (fp_text reference SW14 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Shift (at -7.4 -8.1) (layer F.Fab) hide
@@ -286,26 +286,7 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
     (at 314.275 66.775)
     (path /5C3DCE96)
-    (fp_text reference SW43 (at 7 8.1) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value \ (at -7.4 -8.1) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7 -7) (end 7 7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7 7) (end -7 7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start -7 7) (end -7 -7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 9.525 -9.525) (end -9.525 -9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -9.525 -9.525) (end -9.525 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
-  )
-
-  (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 295.175 66.775)
-    (path /5C3DCE96)
-    (fp_text reference SW42 (at 7 8.1) (layer F.SilkS) hide
+    (fp_text reference SW41 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value / (at -7.4 -8.1) (layer F.Fab) hide
@@ -322,12 +303,31 @@
   )
 
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 269.322493 66.616697 8)
+    (at 295.175 66.775)
     (path /5C3DCE96)
-    (fp_text reference SW41 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW40 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value > (at -7.4 -8.1 8) (layer F.Fab) hide
+    (fp_text value . (at -7.4 -8.1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 7 -7) (end 7 7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 7 7) (end -7 7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start -7 7) (end -7 -7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 9.525 -9.525) (end -9.525 -9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -9.525 -9.525) (end -9.525 9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
+  )
+
+  (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
+    (at 269.322493 66.616697 8)
+    (path /5C3DCE96)
+    (fp_text reference SW39 (at 7 8.1 8) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value , (at -7.4 -8.1 8) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
@@ -343,26 +343,7 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
     (at 250.408373 69.274904 8)
     (path /5C3DCE96)
-    (fp_text reference SW40 (at 7 8.1 8) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value < (at -7.4 -8.1 8) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7 -7) (end 7 7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7 7) (end -7 7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start -7 7) (end -7 -7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 9.525 -9.525) (end -9.525 -9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -9.525 -9.525) (end -9.525 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
-  )
-
-  (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 231.494253 71.93311 8)
-    (path /5C3DCE96)
-    (fp_text reference SW39 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW38 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value M (at -7.4 -8.1 8) (layer F.Fab) hide
@@ -379,9 +360,9 @@
   )
 
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 212.580133 74.591316 8)
+    (at 231.494253 71.93311 8)
     (path /5C3DCE96)
-    (fp_text reference SW38 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW37 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value N (at -7.4 -8.1 8) (layer F.Fab) hide
@@ -398,12 +379,31 @@
   )
 
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 299.95 47.675)
+    (at 212.580133 74.591316 8)
     (path /5C3DCE96)
-    (fp_text reference SW37 (at 7 8.1) (layer F.SilkS) hide
+    (fp_text reference SW36 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value ' (at -7.4 -8.1) (layer F.Fab) hide
+    (fp_text value ' (at -7.4 -8.1 8) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 7 -7) (end 7 7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 7 7) (end -7 7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start -7 7) (end -7 -7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 9.525 -9.525) (end -9.525 -9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -9.525 -9.525) (end -9.525 9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
+  )
+
+  (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
+    (at 299.95 47.675)
+    (path /5C3DCE96)
+    (fp_text reference SW35 (at 7 8.1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value ; (at -7.4 -8.1) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
@@ -419,26 +419,7 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
     (at 276.121347 46.373474 8)
     (path /5C3DCE96)
-    (fp_text reference SW36 (at 7 8.1 8) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value ; (at -7.4 -8.1 8) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7 -7) (end 7 7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7 7) (end -7 7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start -7 7) (end -7 -7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 9.525 -9.525) (end -9.525 -9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -9.525 -9.525) (end -9.525 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
-  )
-
-  (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 257.207227 49.03168 8)
-    (path /5C3DCE96)
-    (fp_text reference SW35 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW34 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value L (at -7.4 -8.1 8) (layer F.Fab) hide
@@ -455,9 +436,9 @@
   )
 
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 238.293107 51.689887 8)
+    (at 257.207227 49.03168 8)
     (path /5C3DCE96)
-    (fp_text reference SW34 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW33 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value K (at -7.4 -8.1 8) (layer F.Fab) hide
@@ -474,9 +455,9 @@
   )
 
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 219.378987 54.348093 8)
+    (at 238.293107 51.689887 8)
     (path /5C3DCE96)
-    (fp_text reference SW33 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW32 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value J (at -7.4 -8.1 8) (layer F.Fab) hide
@@ -493,9 +474,9 @@
   )
 
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 200.464867 57.006299 8)
+    (at 219.378987 54.348093 8)
     (path /5C3DCE96)
-    (fp_text reference SW32 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW31 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value H (at -7.4 -8.1 8) (layer F.Fab) hide
@@ -514,6 +495,25 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
     (at 193.07813 38.756731 8)
     (path /5C3DCE96)
+    (fp_text reference SW24 (at 7 8.1 8) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value ] (at -7.4 -8.1 8) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 7 -7) (end 7 7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 7 7) (end -7 7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start -7 7) (end -7 -7) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 9.525 -9.525) (end -9.525 -9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -9.525 -9.525) (end -9.525 9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
+  )
+
+  (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
+    (at 211.99225 36.098524 8)
+    (path /5C3DCE96)
     (fp_text reference SW25 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -531,7 +531,7 @@
   )
 
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 211.99225 36.098524 8)
+    (at 230.906371 33.440318 8)
     (path /5C3DCE96)
     (fp_text reference SW26 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -550,7 +550,7 @@
   )
 
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 230.906371 33.440318 8)
+    (at 249.820491 30.782112 8)
     (path /5C3DCE96)
     (fp_text reference SW27 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -569,28 +569,9 @@
   )
 
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 249.820491 30.782112 8)
-    (path /5C3DCE96)
-    (fp_text reference SW28 (at 7 8.1 8) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value O (at -7.4 -8.1 8) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7 -7) (end 7 7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7 7) (end -7 7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start -7 7) (end -7 -7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 9.525 -9.525) (end -9.525 -9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -9.525 -9.525) (end -9.525 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
-  )
-
-  (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
     (at 139.727414 75.913461 352)
     (path /5C3DCE96)
-    (fp_text reference SW20 (at 7 8.1 172) (layer F.SilkS) hide
+    (fp_text reference SW19 (at 7 8.1 172) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value B (at -7.4 -8.1 172) (layer F.Fab) hide
@@ -609,7 +590,7 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
     (at 120.813294 73.255254 352)
     (path /5C3DCE96)
-    (fp_text reference SW19 (at 7 8.1 172) (layer F.SilkS) hide
+    (fp_text reference SW18 (at 7 8.1 172) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value V (at -7.4 -8.1 172) (layer F.Fab) hide
@@ -628,29 +609,10 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
     (at 101.899174 70.597048 352)
     (path /5C3DCE96)
-    (fp_text reference SW18 (at 7 8.1 172) (layer F.SilkS) hide
+    (fp_text reference SW17 (at 7 8.1 172) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value C (at -7.4 -8.1 172) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7 -7) (end 7 7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7 7) (end -7 7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start -7 7) (end -7 -7) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 9.525 -9.525) (end -9.525 -9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -9.525 -9.525) (end -9.525 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
-  )
-
-  (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
-    (at 151.84268 58.328444 352)
-    (path /5C3DCE96)
-    (fp_text reference SW14 (at 7 8.1 172) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value = (at -7.4 -8.1 172) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
@@ -726,7 +688,7 @@
     (fp_text reference SW7 (at 7 8.1 172) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value - (at -7.4 -8.1 172) (layer F.Fab) hide
+    (fp_text value [ (at -7.4 -8.1 172) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
@@ -799,10 +761,10 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
     (at 268.734611 28.123906 8)
     (path /5C3DCE96)
-    (fp_text reference SW29 (at 7 8.1 8) (layer F.SilkS) hide
+    (fp_text reference SW28 (at 7 8.1 8) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value P (at -7.4 -8.1 8) (layer F.Fab) hide
+    (fp_text value O (at -7.4 -8.1 8) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
@@ -818,10 +780,10 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
     (at 295.175 28.575)
     (path /5C3DCE96)
-    (fp_text reference SW30 (at 7 8.1) (layer F.SilkS) hide
+    (fp_text reference SW29 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value [ (at -7.4 -8.1) (layer F.Fab) hide
+    (fp_text value P (at -7.4 -8.1) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
@@ -837,7 +799,7 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E75B)
     (at 82.985053 67.938842 352)
     (path /5C3DCE96)
-    (fp_text reference SW17 (at 7 8.1 172) (layer F.SilkS) hide
+    (fp_text reference SW16 (at 7 8.1 172) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value X (at -7.4 -8.1 172) (layer F.Fab) hide
@@ -894,7 +856,7 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60E3E3AE)
     (at 62 66.775)
     (path /5C3DCE96)
-    (fp_text reference SW16 (at 7 8.1) (layer F.SilkS) hide
+    (fp_text reference SW15 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Z (at -7.4 -8.1) (layer F.Fab) hide
@@ -1239,10 +1201,10 @@
   (module kbd_SW_Hole:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60A2982A)
     (at 314.275 28.575)
     (path /5C3DCE96)
-    (fp_text reference SW31 (at 7 8.1) (layer F.SilkS) hide
+    (fp_text reference SW30 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value ] (at -7.4 -8.1) (layer F.Fab) hide
+    (fp_text value - (at -7.4 -8.1) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
@@ -1274,55 +1236,7 @@
     (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
   )
 
-  (dimension 304.800066 (width 0.15) (layer F.SilkS)
-    (gr_text "304.800 mm" (at 171.500919 95.299999 0.03759565045) (layer F.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (feature1 (pts (xy 323.9 93.8) (xy 323.90045 94.48642)))
-    (feature2 (pts (xy 19.1 94) (xy 19.10045 94.68642)))
-    (crossbar (pts (xy 19.100066 94.099999) (xy 323.900066 93.899999)))
-    (arrow1a (pts (xy 323.900066 93.899999) (xy 322.773947 94.487159)))
-    (arrow1b (pts (xy 323.900066 93.899999) (xy 322.773178 93.314318)))
-    (arrow2a (pts (xy 19.100066 94.099999) (xy 20.226954 94.68568)))
-    (arrow2b (pts (xy 19.100066 94.099999) (xy 20.226185 93.512839)))
-  )
-  (dimension 5.5 (width 0.15) (layer F.SilkS)
-    (gr_text "5.500 mm" (at 16.35 98.2) (layer F.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (feature1 (pts (xy 19.1 96.9) (xy 19.1 97.486421)))
-    (feature2 (pts (xy 13.6 96.9) (xy 13.6 97.486421)))
-    (crossbar (pts (xy 13.6 96.9) (xy 19.1 96.9)))
-    (arrow1a (pts (xy 19.1 96.9) (xy 17.973496 97.486421)))
-    (arrow1b (pts (xy 19.1 96.9) (xy 17.973496 96.313579)))
-    (arrow2a (pts (xy 13.6 96.9) (xy 14.726504 97.486421)))
-    (arrow2b (pts (xy 13.6 96.9) (xy 14.726504 96.313579)))
-  )
-  (dimension 99.3 (width 0.15) (layer F.SilkS)
-    (gr_text "99.300 mm" (at 31.3 66.65 90) (layer F.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (feature1 (pts (xy 30 17) (xy 30.586421 17)))
-    (feature2 (pts (xy 30 116.3) (xy 30.586421 116.3)))
-    (crossbar (pts (xy 30 116.3) (xy 30 17)))
-    (arrow1a (pts (xy 30 17) (xy 30.586421 18.126504)))
-    (arrow1b (pts (xy 30 17) (xy 29.413579 18.126504)))
-    (arrow2a (pts (xy 30 116.3) (xy 30.586421 115.173496)))
-    (arrow2b (pts (xy 30 116.3) (xy 29.413579 115.173496)))
-  )
-  (dimension 315.7 (width 0.15) (layer F.SilkS)
-    (gr_text "315.700 mm" (at 171.45 101.3) (layer F.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (feature1 (pts (xy 329.3 100) (xy 329.3 100.586421)))
-    (feature2 (pts (xy 13.6 100) (xy 13.6 100.586421)))
-    (crossbar (pts (xy 13.6 100) (xy 329.3 100)))
-    (arrow1a (pts (xy 329.3 100) (xy 328.173496 100.586421)))
-    (arrow1b (pts (xy 329.3 100) (xy 328.173496 99.413579)))
-    (arrow2a (pts (xy 13.6 100) (xy 14.726504 100.586421)))
-    (arrow2b (pts (xy 13.6 100) (xy 14.726504 99.413579)))
-  )
-  (gr_circle (center 176.81 77.19) (end 194.31 77.19) (layer Edge.Cuts) (width 0.15) (tstamp 60E2CF56))
+  (gr_circle (center 176.7475 72.5) (end 200.7475 72.5) (layer Edge.Cuts) (width 0.15) (tstamp 60F68BF2))
   (gr_line (start 10.075 122.75) (end 8.575 121.25) (layer F.Fab) (width 0.15) (tstamp 60883451))
   (gr_line (start 334.325 12.05) (end 332.825 10.55) (layer F.Fab) (width 0.15) (tstamp 60883444))
   (gr_line (start 8.575 12.05) (end 10.075 10.55) (layer F.Fab) (width 0.15) (tstamp 60883437))
